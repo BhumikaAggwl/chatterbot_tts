@@ -1,0 +1,12 @@
+fastapi
+uvicorn 
+chatterbox
+accelerate
+transformers
+torch # This will install the CPU version by default if no CUDA-enabled GPU is detected
+torchaudio # This will install the CPU version by default
+soundfile
+pydub
+psutil
+pynvml # This will install, but its functions for GPU monitoring will show N/A on CPU
+numpy
