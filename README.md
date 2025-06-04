@@ -1,6 +1,5 @@
 # chatterbot_tts
 This is a flask api code to be deployed on kaggle and train the model on custom voice so that text given in a certain way be given as sound given
-Okay, here's the documentation converted into a README.md format, including common errors to avoid and troubleshooting tips specifically for your Kaggle environment.
 
 ```markdown
 # Chatterbox TTS FastAPI Application on Kaggle
